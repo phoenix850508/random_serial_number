@@ -1,10 +1,8 @@
 # Random_serial_number 🎰
 <img width="700" alt="截圖 2023-10-12 下午3 49 07" src="https://github.com/phoenix850508/random_serial_number/assets/121414639/e65aba6f-d248-433a-b3d7-0f7c112453a8">
-<br>
-This is a relative simple side-project to practice Python basic syntax. It can be used to help organizers to generate random numbers whithout having the issues of duplicate random numbers.
 
-## Introduction 🌟
-This side project is built to help those who wants to generate a pair of serial number title and random number for any promotion purpose.
+## Introduction 
+This is a relative simple side-project to practice Python basic syntax. It can be used to help organizers to generate random numbers whithout having the issues of duplicate random numbers. This side project is built to help those who wants to generate a pair of serial number title and random number for any promotion purpose.
 This project allows users to customize their own preference when creating a random number, it allows the user to:
 - Cusomize the amount of random serial numbers created
 - Customize the digits of random serial numbers
