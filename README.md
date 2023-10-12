@@ -15,7 +15,7 @@ It allows users to customize their own preference when creating a random number,
 <br>
 ✔️ Customize the prefix of serial number titles
 <br>
-✔️ Exclude the letter/numbers that the users does not want to include in the random numbers
+✔️ Exclude the letters/numbers that the user does not want to include in the random numbers
 <br>
 ✔️ Export the generated items to xlsx file
 <br>
