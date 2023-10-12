@@ -45,8 +45,8 @@ for i in range(num_serial):
     serial_str += rand_char
   serial_nums.append(serial_str)
 
-# create hashmaps
-hashmaps = [None] * remain_option_chars * remain_option_chars
+# create hashmaps, the highest ASCII value is 90
+hashmaps = [None] * 90 * remain_option_chars
 
 # loop all serial numbers to create hashmaps
 for j in range(num_serial):
