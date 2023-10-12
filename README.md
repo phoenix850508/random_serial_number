@@ -8,6 +8,7 @@ A relative simple side-project to practice Python basic syntax. It can be used t
 This project is built to help those who wants to generate a pair of serial number titles and random numbers for any promotion purpose.
 It allows users to customize their own preference when creating a random number, including:
 <br>
+<br>
 ✔️ Cusomize the amount of random serial numbers
 <br>
 ✔️ Customize the digits of random numbers
