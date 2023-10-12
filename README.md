@@ -1,7 +1,7 @@
 # Random_serial_number 🎰
 This is a relative simple side-project to practice Python basic syntax.
 
-## Introduction ☑️
+## Introduction 🌟
 This side project is built to help those who wants to generate a pair of serial number title and random number for any promotion purpose.
 This project allows users to customize their own preference when creating a random number, it allows the user to:
 - Cusomize the amount of random serial numbers created
@@ -9,3 +9,8 @@ This project allows users to customize their own preference when creating a rand
 - Customize the serial number title prefix
 - Exclude the letter/numbers user does not want to include in the random number
 - Export the generated items to xlsx file
+
+## Spec 🔧
+* Python 3.12.0
+* pip3
+* xlsxwriter 3.1.7
