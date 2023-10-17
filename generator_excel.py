@@ -73,7 +73,7 @@ for element in hashmaps:
         # allocate data using hashmaps, sort by first two char index in options to find duplicate within same ASCII value for all digits
         dup_hashmaps = [None] * 3636
         for item in element:
-          dup_hash_str = str(options.index(item[0])) + str(options.index(item[1]))
+          dup_hash_str = str(options.index(item[0])).zfill(2) + str(options.index(item[1])).zfill(2)
           dup_hash = int(dup_hash_str) % len(dup_hashmaps)
           if dup_hashmaps[dup_hash] != None:
             dup_hashmaps[dup_hash].append(item)
