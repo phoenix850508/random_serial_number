@@ -25,7 +25,7 @@ It allows users to customize their own preference when creating a random number,
 1. Please ensure Python 3 and pip3 are well installed in your local environment.
 2. Find a folder where you want to put this project, open Terminal, and run the command for cloning. Enter:
 <br/> `git clone https://github.com/phoenix850508/random_serial_number.git`
-3. Open your terminal, and change the directory to the livescore folder. Enter:
+3. Open your terminal, and change the directory to the random_serial_number folder. Enter:
 <br/> `cd random_serial_number`
 4. Run the command to use generate random number excel sheet:
 <br/> `python3 generator_excel.py`
@@ -33,5 +33,5 @@ It allows users to customize their own preference when creating a random number,
 
 ## Spec 🔧
 * Python 3.12.0
-* pip3
+* pip3 23.2.1
 * xlsxwriter 3.1.7
